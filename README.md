@@ -1,0 +1,1 @@
+This repository is just my own prjects. It also has some projects that are assignments from recruiters. I'm doing these projects to learn so not everything is perfect even though I happen to be such ;)
