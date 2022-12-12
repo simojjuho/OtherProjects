@@ -1,1 +1,1 @@
-This repository is just my own prjects. It also has some projects that are assignments from recruiters. I'm doing these projects to learn so not everything is perfect even though I happen to be such ;)
+This repository is just for small pieces of code for which a whole repository would be a bit too much. 
